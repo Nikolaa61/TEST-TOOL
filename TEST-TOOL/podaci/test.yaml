@@ -1,0 +1,15 @@
+id: 123
+name: "Peter"
+properties:
+    podaci:
+            prezime: "Griffin"
+            emisija: "Family Guy"
+            ljubimac: "Brian"
+    porodica:
+            zena: "Lois"
+            sin: "Chris"
+            cerka: "Meg"
+entities:
+    sinovac:
+            id: 16
+            name: "Stewie"
